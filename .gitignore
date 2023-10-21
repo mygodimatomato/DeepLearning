@@ -4,4 +4,4 @@ datasets/
 datasets_processed/
 
 # Ignore the file
-.DS_Store/
+.DS_Store

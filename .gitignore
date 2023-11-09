@@ -2,8 +2,15 @@
 Slide/
 datasets/
 datasets_processed/
+oregon_wildlife/
+cifar-10-batches-py/
 
 # Ignore the file
 .DS_Store
 dataset*
 data/
+*.zip
+*.csv
+*.h5
+*.gz
+lab11_1_lib.*

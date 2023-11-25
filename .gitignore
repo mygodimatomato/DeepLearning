@@ -15,4 +15,6 @@ data/
 *.gz
 lab11_1_lib.*
 
-VOC*
+VOC*/
+ckpts
+JPEGImages/.

@@ -1,0 +1,74 @@
+confidence_threshold: 0.020000, iou_threshold: 0.020000
+score: 0.445593
+confidence_threshold: 0.020000, iou_threshold: 0.022000
+score: 0.445337
+confidence_threshold: 0.020000, iou_threshold: 0.024000
+score: 0.445398
+confidence_threshold: 0.020000, iou_threshold: 0.026000
+score: 0.445205
+confidence_threshold: 0.020000, iou_threshold: 0.028000
+score: 0.445209
+confidence_threshold: 0.020000, iou_threshold: 0.030000
+score: 0.444943
+confidence_threshold: 0.020000, iou_threshold: 0.032000
+score: 0.444339
+confidence_threshold: 0.020000, iou_threshold: 0.034000
+score: 0.443979
+confidence_threshold: 0.020000, iou_threshold: 0.036000
+score: 0.443761
+confidence_threshold: 0.020000, iou_threshold: 0.038000
+score: 0.443400
+confidence_threshold: 0.020000, iou_threshold: 0.040000
+score: 0.443010
+confidence_threshold: 0.020000, iou_threshold: 0.042000
+score: 0.442607
+confidence_threshold: 0.020000, iou_threshold: 0.044000
+score: 0.442323
+confidence_threshold: 0.020000, iou_threshold: 0.046000
+score: 0.442086
+confidence_threshold: 0.020000, iou_threshold: 0.048000
+score: 0.441769
+confidence_threshold: 0.022000, iou_threshold: 0.020000
+score: 0.446264
+confidence_threshold: 0.022000, iou_threshold: 0.022000
+score: 0.446010
+confidence_threshold: 0.010000, iou_threshold: 0.400000
+score: 0.396153
+confidence_threshold: 0.010000, iou_threshold: 0.420000
+score: 0.395984
+confidence_threshold: 0.010000, iou_threshold: 0.440000
+score: 0.396298
+confidence_threshold: 0.010000, iou_threshold: 0.460000
+score: 0.396475
+confidence_threshold: 0.010000, iou_threshold: 0.480000
+score: 0.397381
+confidence_threshold: 0.010000, iou_threshold: 0.500000
+score: 0.398462
+confidence_threshold: 0.010000, iou_threshold: 0.520000
+score: 0.399568
+confidence_threshold: 0.010000, iou_threshold: 0.540000
+score: 0.401429
+confidence_threshold: 0.010000, iou_threshold: 0.560000
+score: 0.402820
+confidence_threshold: 0.010000, iou_threshold: 0.580000
+score: 0.404687
+confidence_threshold: 0.012000, iou_threshold: 0.400000
+score: 0.396960
+confidence_threshold: 0.012000, iou_threshold: 0.420000
+score: 0.396854
+confidence_threshold: 0.012000, iou_threshold: 0.440000
+score: 0.397126
+confidence_threshold: 0.012000, iou_threshold: 0.460000
+score: 0.397256
+confidence_threshold: 0.012000, iou_threshold: 0.480000
+score: 0.398239
+confidence_threshold: 0.006000, iou_threshold: 0.420000
+score: 0.394215
+confidence_threshold: 0.005000, iou_threshold: 0.420000
+score: 0.393873
+confidence_threshold: 0.003000, iou_threshold: 0.420000
+score: 0.393103
+confidence_threshold: 0.001000, iou_threshold: 0.420000
+score: 0.392173
+confidence_threshold: 0.000500, iou_threshold: 0.420000
+score: 0.392024

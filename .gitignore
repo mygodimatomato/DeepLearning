@@ -19,3 +19,4 @@ VOC*/
 ckpts
 JPEGImages/.
 checkpoints/
+*.mp4
